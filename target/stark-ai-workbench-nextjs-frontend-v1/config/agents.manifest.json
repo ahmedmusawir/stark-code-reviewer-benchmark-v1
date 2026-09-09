@@ -1,0 +1,13 @@
+{
+  "bundles": [
+    { "id": "v1", "label": "ADK Bundle v1", "urlEnv": "ADK_BUNDLE_URL_V1" },
+    { "id": "v2-local", "label": "Harness v2 (local)", "urlEnv": "ADK_BUNDLE_URL_V2_LOCAL" }
+  ],
+  "agents": [
+    { "name": "architect_agent", "bundle": "v1", "label": "Architect Agent" },
+    { "name": "hermes_agent", "bundle": "v1", "label": "Harmes Main Agent" },
+    { "name": "designer_agent", "bundle": "v1", "label": "Designer Agent" },
+    { "name": "devops_agent", "bundle": "v1", "label": "DevOps Agent" },
+    { "name": "ghl_mcp_agent", "bundle": "v1", "label": "GHL CRM Agent" }
+  ]
+}
