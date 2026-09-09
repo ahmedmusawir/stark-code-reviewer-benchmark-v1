@@ -1,7 +1,7 @@
 # CR-BENCH-01 — Code Reviewer Evaluation Scorecard
 
 **Version:** 1.0
-**Status:** DRAFT — PENDING INSTRUMENT FREEZE
+**Status:** FROZEN
 
 ---
 

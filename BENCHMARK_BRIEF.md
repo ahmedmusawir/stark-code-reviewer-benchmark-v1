@@ -45,6 +45,25 @@ Nothing inside `target/` may be modified after this point.
 
 ## Methodology and Rules
 
-Benchmark methodology, scoring, and rules are **pending freeze**. See `BENCHMARK_RULES.md`.
+**Status: CR-BENCH-01 v1.0 INSTRUMENT FROZEN**
 
-# Placeholder — content pending benchmark design
+The CR-BENCH-01 v1.0 instrument was frozen before Candidate #1 began. Benchmark-owned artifacts:
+
+| Artifact | Role |
+|---|---|
+| `BENCHMARK_RULES.md` | Benchmark Rules v1.0 — FROZEN |
+| `EVAL_SCORECARD.md` | Evaluation Scorecard v1.0 — FROZEN |
+| `templates/REVIEW_PROMPT.template.md` | Raw contestant prompt (master) — FROZEN |
+| `RUN_ORDER.md` | Recorded contestant run order |
+| `EVAL_LEDGER.md` | Evaluation ledger |
+| `FINDINGS_FOR_BENCHMARK_V1.1.md` | Append-only improvement journal for v1.1 |
+| `TARGET_MANIFEST.sha256` | SHA-256 manifest of the frozen target (357 files) |
+
+Freeze state at the time of this record:
+
+- target frozen before Candidate #1;
+- rules frozen before Candidate #1;
+- scorecard frozen before Candidate #1;
+- raw contestant prompt frozen before Candidate #1;
+- no contestant has been run;
+- no scoring has occurred.

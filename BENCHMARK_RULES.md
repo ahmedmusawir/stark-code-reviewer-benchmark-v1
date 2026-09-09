@@ -1,7 +1,7 @@
 # CR-BENCH-01 — Benchmark Rules
 
 **Version:** 1.0
-**Status:** DRAFT — PENDING RULES FREEZE
+**Status:** FROZEN
 
 ---
 
